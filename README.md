@@ -104,7 +104,7 @@ Authenticate an existing user.
 
 ## 📄 License
 
-This project is open-source under the **MIT License**.
+This project is open-source under the **BSD 2-Clause License**.
 
 ## 🩵 Author
 

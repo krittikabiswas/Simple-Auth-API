@@ -102,6 +102,16 @@ Authenticate an existing user.
 
 ---
 
+## 📬 Postman Collection
+You can import the Postman collection that I made to test the API endpoints:
+
+> **File:** `postman\Webhibe Assignment.postman_collection.json`
+
+It contains:
+- POST /signup
+- POST /signin
+
+
 ## 📄 License
 
 This project is open-source under the **BSD 2-Clause License**.
